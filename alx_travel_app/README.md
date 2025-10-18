@@ -7,5 +7,8 @@
 ### 2. Initiate Payment View Screenshot
 ![title](screenshots/initiate-payment-view.png)
 
-### 3. Verify Payment View Screenshot
+### 3. CHAPA Payment Status View Screenshot
+![title](screenshots/chapa-payment-status-view.png)
+
+### 4. Verify Payment View Screenshot
 ![title](screenshots/verify-payment-view.png)
