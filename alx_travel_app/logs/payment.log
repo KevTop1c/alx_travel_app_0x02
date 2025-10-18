@@ -1,0 +1,61 @@
+ERROR 2025-10-17 19:45:49,967 chapa_service Chapa error body: {"message":{"customization.title":["The customization.title must not exceed 16 characters."]},"status":"failed","data":null}
+ERROR 2025-10-17 19:45:49,984 views Failed to initiate payment for booking BOOK-20251017-66F9BC: 400 Client Error: Bad Request for url: https://api.chapa.co/v1/transaction/initialize
+INFO 2025-10-17 19:50:38,185 chapa_service Payment initialized successfully: TXN-9920B70CC23C4717
+INFO 2025-10-17 19:50:38,194 views Payment initiated for booking BOOK-20251017-8D12EC by user kev@travel.com
+INFO 2025-10-17 19:53:27,045 chapa_service Payment verified: TXN-9920B70CC23C4717
+INFO 2025-10-17 20:14:18,586 chapa_service Payment initialized successfully: TXN-03971A156AD04599
+INFO 2025-10-17 20:14:18,598 views Payment initiated for booking BOOKING-20251017-998E33 by user kev@travel.com
+INFO 2025-10-17 20:14:38,953 chapa_service Payment verified successfully: TXN-03971A156AD04599
+WARNING 2025-10-17 20:14:38,978 chapa_service Payment TXN-03971A156AD04599 verification failed: pending
+INFO 2025-10-17 20:52:39,001 chapa_service Payment initialized successfully: TXN-AFC9BA2AFE9D4519
+INFO 2025-10-17 20:52:39,072 views Payment initiated for booking BOOKING-20251017-5B0F3D by user kev@travel.com
+INFO 2025-10-17 20:53:08,184 chapa_service Payment verified successfully: TXN-AFC9BA2AFE9D4519
+WARNING 2025-10-17 20:53:08,224 chapa_service Payment TXN-AFC9BA2AFE9D4519 verification failed: pending
+INFO 2025-10-17 20:54:35,720 chapa_service Payment verified successfully: TXN-AFC9BA2AFE9D4519
+WARNING 2025-10-17 20:54:35,733 chapa_service Payment TXN-AFC9BA2AFE9D4519 verification failed: pending
+INFO 2025-10-17 21:04:30,608 chapa_service Payment verified successfully: TXN-AFC9BA2AFE9D4519
+WARNING 2025-10-17 21:04:30,649 chapa_service Payment TXN-AFC9BA2AFE9D4519 verification failed: pending
+INFO 2025-10-17 21:09:16,511 chapa_service Payment verified successfully: TXN-9920B70CC23C4717
+WARNING 2025-10-17 21:09:16,548 chapa_service Payment TXN-9920B70CC23C4717 verification failed: pending
+INFO 2025-10-17 21:21:36,603 chapa_service Payment verified successfully: TXN-AFC9BA2AFE9D4519
+WARNING 2025-10-17 21:21:36,643 chapa_service Payment TXN-AFC9BA2AFE9D4519 verification failed: pending
+INFO 2025-10-17 21:53:02,215 chapa_service Payment verified successfully: TXN-AFC9BA2AFE9D4519
+INFO 2025-10-17 21:53:02,291 chapa_service Payment TXN-AFC9BA2AFE9D4519 marked as success.
+INFO 2025-10-17 21:53:02,413 views Payment verified successfully: TXN-AFC9BA2AFE9D4519 for user kev@travel.com
+INFO 2025-10-17 22:03:13,387 chapa_service Payment verified successfully: TXN-03971A156AD04599
+WARNING 2025-10-17 22:03:13,437 chapa_service Payment TXN-03971A156AD04599 verification failed: pending
+INFO 2025-10-17 22:08:33,303 chapa_service Payment initialized successfully: TXN-6EF635FC638845CA
+INFO 2025-10-17 22:08:33,315 views Payment initiated for booking BOOKING-20251017-E7A589 by user kev@travel.com
+INFO 2025-10-17 22:10:12,250 chapa_service Payment verified successfully: TXN-6EF635FC638845CA
+INFO 2025-10-17 22:10:12,297 chapa_service Payment TXN-6EF635FC638845CA marked as success.
+INFO 2025-10-17 22:10:12,389 views Payment verified successfully: TXN-6EF635FC638845CA for user kev@travel.com
+INFO 2025-10-17 22:17:49,295 chapa_service Payment initialized successfully: TXN-41FE007D63664964
+INFO 2025-10-17 22:17:49,334 views Payment initiated for booking BOOKING-20251017-8AFCCE by user kev@travel.com
+INFO 2025-10-17 22:18:40,177 chapa_service Payment verified successfully: TXN-41FE007D63664964
+INFO 2025-10-17 22:18:40,236 chapa_service Payment TXN-41FE007D63664964 marked as success.
+INFO 2025-10-17 22:18:40,344 views Payment verified successfully: TXN-41FE007D63664964 for user kev@travel.com
+INFO 2025-10-17 22:21:28,366 chapa_service Payment initialized successfully: TXN-75ACEE7C0C47443D
+INFO 2025-10-17 22:21:28,388 views Payment initiated for booking BOOKING-20251017-499BE6 by user kev@travel.com
+INFO 2025-10-17 22:22:19,044 chapa_service Payment verified successfully: TXN-75ACEE7C0C47443D
+INFO 2025-10-17 22:22:19,081 chapa_service Payment TXN-75ACEE7C0C47443D marked as success.
+INFO 2025-10-17 22:22:19,152 views Payment verified successfully: TXN-75ACEE7C0C47443D for user kev@travel.com
+INFO 2025-10-17 22:27:21,317 chapa_service Payment initialized successfully: TXN-676C87A2442F451C
+INFO 2025-10-17 22:27:21,337 views Payment initiated for booking BOOKING-20251017-557FE4 by user kev@travel.com
+INFO 2025-10-17 22:27:54,629 chapa_service Payment verified successfully: TXN-676C87A2442F451C
+INFO 2025-10-17 22:27:54,653 chapa_service Payment TXN-676C87A2442F451C marked as success.
+INFO 2025-10-17 22:27:54,749 views Payment verified successfully: TXN-676C87A2442F451C for user kev@travel.com
+INFO 2025-10-17 22:35:21,951 chapa_service Payment initialized successfully: TXN-FE67C0FA06AE4C68
+INFO 2025-10-17 22:35:21,968 views Payment initiated for booking BOOKING-20251017-920917 by user kev@travel.com
+INFO 2025-10-17 22:35:55,168 chapa_service Payment verified successfully: TXN-FE67C0FA06AE4C68
+INFO 2025-10-17 22:35:55,275 chapa_service Payment TXN-FE67C0FA06AE4C68 marked as success.
+INFO 2025-10-17 22:35:55,346 views Payment verified successfully: TXN-FE67C0FA06AE4C68 for user kev@travel.com
+INFO 2025-10-17 22:58:07,535 chapa_service Payment initialized successfully: TXN-021C91CF43CD42E7
+INFO 2025-10-17 22:58:07,546 views Payment initiated for booking BOOKING-20251017-CEF83E by user kev@travel.com
+INFO 2025-10-17 22:58:51,428 chapa_service Payment verified successfully: TXN-021C91CF43CD42E7
+INFO 2025-10-17 22:58:51,443 chapa_service Payment TXN-021C91CF43CD42E7 marked as success.
+INFO 2025-10-17 22:58:51,515 views Payment verified successfully: TXN-021C91CF43CD42E7 for user kev@travel.com
+INFO 2025-10-17 23:08:56,407 chapa_service Payment initialized successfully: TXN-8235D10F13BB4F6B
+INFO 2025-10-17 23:08:56,421 views Payment initiated for booking BOOKING-20251017-A166A2 by user kev@travel.com
+INFO 2025-10-17 23:09:29,627 chapa_service Payment verified successfully: TXN-8235D10F13BB4F6B
+INFO 2025-10-17 23:09:29,646 chapa_service Payment TXN-8235D10F13BB4F6B marked as success.
+INFO 2025-10-17 23:09:29,736 views Payment verified successfully: TXN-8235D10F13BB4F6B for user kev@travel.com
