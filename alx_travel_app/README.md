@@ -1,5 +1,5 @@
-# API Development for Listings and Bookings in Django
-## Screenshot Upcoming...
+# Integration of Chapa API for Payment Processing in ALX Travel App
+## Screenshots
 
 ### 1. Booking List View Screenshot
 ![title](screenshots/booking-list-view.png)
